@@ -1,6 +1,4 @@
-<img align="center" src="[URL_TO_YOUR_IMAGE](https://www.dropbox.com/scl/fi/imkhia84godo2jxjmabyh/Codingwithpauline.jpg?rlkey=d91ve4rt7qm6sou05qyee5167&dl=0)" height="100" />
-
-
+![Codingwithpauline](https://github.com/Pauline-Bihler/Pauline-Bihler/assets/142094836/20652748-590d-4216-b8ec-07a9106c3a1f)
 ### Hi there 👋
 
 I'm Pauline, a passionate developer and animal enthusiast based in Graz, Austria. 
