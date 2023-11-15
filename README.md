@@ -1,3 +1,6 @@
+<img align="center" src="[URL_TO_YOUR_IMAGE](https://www.dropbox.com/scl/fi/imkhia84godo2jxjmabyh/Codingwithpauline.jpg?rlkey=d91ve4rt7qm6sou05qyee5167&dl=0)" height="100" />
+
+
 ### Hi there 👋
 
 I'm Pauline, a passionate developer and animal enthusiast based in Graz, Austria. 
