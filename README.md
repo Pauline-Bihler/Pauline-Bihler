@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Pauline, a passionate developer and animal enthusiast based in Graz, Austria. 
+
+
 <!--
 **Pauline-Bihler/Pauline-Bihler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
