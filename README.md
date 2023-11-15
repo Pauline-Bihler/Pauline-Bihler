@@ -14,7 +14,8 @@ As part of my final project, I'm crafting a purposeful animal shelter website, i
 JavaScript, TypeScript
 React, Next.js
 Node.js, Express
-PostgreSQL
+PostgreSQL, API, Scss, Balsamiq,
+Figma
 
 ### 📫 Let's Connect
 Reach out to me on LinkedIn: <a href="https://www.linkedin.com/in/pauline-bihler/">Pauline Bihler</a>
