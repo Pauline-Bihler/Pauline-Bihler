@@ -2,21 +2,21 @@
 
 I'm Pauline, a passionate developer and animal enthusiast based in Graz, Austria. 
 
-🌱 Learning Journey
+### 🌱 Learning Journey
 Currently on a learning adventure with the PERN stack at UpLeveled BootCamp, I'm diving deep into the realms of JavaScript, TypeScript, React, Next.js, Node.js, and PostgreSQL. The tech world is my playground, and I'm always eager to explore new technologies and enhance my skill set.
 
-🚀 Current Endeavors
+### 🚀 Current Endeavors
 In the coding sphere, you'll find me immersed in several exciting projects. One of my key endeavors is the development of a dynamic e-commerce website, where I bring together my passion for coding and my love for Japanese mangas.
 
 As part of my final project, I'm crafting a purposeful animal shelter website, inspired by my own furry friend, Mimi. This project holds a special place in my heart as I aim to create a digital space that mirrors the warmth and care found in our shelter.
 
-🔭 Technologies & Tools
+### 🔭 Technologies & Tools
 JavaScript, TypeScript
 React, Next.js
 Node.js, Express
 PostgreSQL
 
-📫 Let's Connect
+### 📫 Let's Connect
 Reach out to me on LinkedIn: <a href="https://www.linkedin.com/in/pauline-bihler/">Pauline Bihler</a>
 
 
