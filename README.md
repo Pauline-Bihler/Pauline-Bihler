@@ -3,7 +3,7 @@
 
 I'm Pauline, a passionate developer and animal enthusiast based in Graz, Austria. 
 
-** 🌱 Learning Journey **
+### 🌱 Learning Journey
 Currently on a learning adventure with the PERN stack at UpLeveled BootCamp, I'm diving deep into the realms of JavaScript, TypeScript, React, Next.js, Node.js, and PostgreSQL. The tech world is my playground, and I'm always eager to explore new technologies and enhance my skill set.
 
 ### 🚀 Current Endeavors
